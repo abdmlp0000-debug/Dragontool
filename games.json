@@ -1,0 +1,34 @@
+{
+    "gamesList": [
+    {
+      "title": "النسخة العالمية",
+      "package": "com.tencent.ig",
+      "version": "4.0.2",
+      "status": "امن"
+    },
+    {
+      "title": "النسخة الكورية",
+      "package": "com.pubg.krmobile",
+      "version": "4.0.2",
+      "status": "امن"
+    },
+      {
+        "title": "النسخة الفيتنامية",
+        "package": "com.vng.pubgmobile",
+        "version": "4.0.2",
+        "status": "امن"
+      },
+    {
+      "title": "النسخة التايوانية",
+      "package": "com.rekoo.pubgm",
+      "version": "4.0.2",
+      "status": "امن"
+    },
+      {
+        "title": "النسخة الهندة",
+        "package": "com.pubg.imobile",
+        "version": "4.0.2",
+        "status": "غير آمنة"
+      }
+  ]
+}
